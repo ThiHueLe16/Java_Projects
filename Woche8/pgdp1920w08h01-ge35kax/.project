@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Woche 08 H 01 - Polymorphie verstehen und erklaeren</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Poly_Lösung_Für_H01.odt</name>
+			<type>1</type>
+			<location>/Users/thihuele/Downloads/Document1.odt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
